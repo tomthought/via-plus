@@ -1,0 +1,6 @@
+[submodule "libs/aave"]
+	path = libs/aave
+	url = https://github.com/teknql/aave
+[submodule "aave"]
+	path = aave
+	url = https://github.com/teknql/aave
